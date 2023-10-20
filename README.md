@@ -20,4 +20,4 @@ This is a command-line tool to switch between Kubernetes contexts. It lists all 
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
